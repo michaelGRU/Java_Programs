@@ -8,6 +8,6 @@ In geometry, the tesseract is the four-dimensional analogue of the (3D) cube.
 The program compares different writing samples and gives a probability that they are written by the same author. 
 
 <h3>Java Code Bank</h3>
-I wrote if for fun. You might find it helpful. 
+I wrote it for fun. You might find it helpful. 
 
 <pre>
