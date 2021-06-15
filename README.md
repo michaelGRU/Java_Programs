@@ -9,6 +9,6 @@ The program compares different writing samples and gives a probability that
 they are written by the same author. 
 
 <h3>Java Code Bank</h3>
-I wrote it for fun. You might find it helpful. 
+It is what it is.
 
 <pre>
